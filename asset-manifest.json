@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_node_fs_64_Fstv-Electro/static/css/main.34c1c43e.css",
+    "main.js": "/react_node_fs_64_Fstv-Electro/static/js/main.71a8d3fe.js",
+    "static/media/symbol-defs.svg": "/react_node_fs_64_Fstv-Electro/static/media/symbol-defs.e6cec34695b7fbbe23b82e0946e2a0d1.svg",
+    "static/media/user-desktop1x.png": "/react_node_fs_64_Fstv-Electro/static/media/user-desktop1x.47ac3097a0f12b998d37.png",
+    "index.html": "/react_node_fs_64_Fstv-Electro/index.html",
+    "main.34c1c43e.css.map": "/react_node_fs_64_Fstv-Electro/static/css/main.34c1c43e.css.map",
+    "main.71a8d3fe.js.map": "/react_node_fs_64_Fstv-Electro/static/js/main.71a8d3fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34c1c43e.css",
+    "static/js/main.71a8d3fe.js"
+  ]
+}
