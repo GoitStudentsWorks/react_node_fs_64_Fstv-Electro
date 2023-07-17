@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   // <React.StrictMode>
   <Provider store={store}>
     <PersistGate loading={null} persistor={persistor} />
-    <BrowserRouter basename="/TaskPro-prj-9">
+    <BrowserRouter basename="/react_node_fs_64_Fstv-Electro">
       <App />
     </BrowserRouter>
   </Provider>
